@@ -13,6 +13,7 @@ module.exports = {
         "npmrc",
         "preinstall",
         "sourcemaps",
+        "npmjs",
         // Git
         "difftool",
         "mergetool",
