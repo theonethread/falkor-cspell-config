@@ -12,6 +12,7 @@ module.exports = {
         // NPM
         "npmrc",
         "preinstall",
+        "sourcemaps",
         // Git
         "difftool",
         "mergetool",
@@ -22,7 +23,10 @@ module.exports = {
         "oneline",
         "userconfig",
         "globalconfig",
+        "codeql",
+        "snyk",
         // Prettier
+        "prettierrc",
         "parens",
         // ESLint
         "ruleset",
@@ -36,7 +40,8 @@ module.exports = {
         // Falkor
         "falkor",
         "theonethread",
-        "Bucsy"
+        "Bucsy",
+        "pandoc"
     ],
     flagWords: [
         //cspell:ignore wtf
