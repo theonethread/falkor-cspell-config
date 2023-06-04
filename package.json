@@ -1,0 +1,52 @@
+{
+  "name": "@falkor/falkor-cspell-config",
+  "version": "0.0.1",
+  "description": "Shared CSpell configuration module to be used with the Falkor Framework",
+  "author": {
+    "name": "Barnabas Bucsy",
+    "url": "https://github.com/theonethread"
+  },
+  "contributors": [
+    {
+      "name": "Barnabas Bucsy",
+      "url": "https://github.com/theonethread"
+    }
+  ],
+  "license": "MIT",
+  "private": true,
+  "homepage": "https://github.com/theonethread/falkor-cspell-config/#readme",
+  "repository": "github:theonethread/falkor-cspell-config",
+  "bugs": "https://github.com/theonethread/falkor-cspell-config/issues",
+  "funding": [
+    {
+      "type": "ko-fi",
+      "url": "https://ko-fi.com/falkor_framework"
+    },
+    {
+      "type": "individual",
+      "url": "https://www.linkedin.com/in/barnabas-bucsy"
+    }
+  ],
+  "keywords": [
+    "falkor",
+    "cspell",
+    "config"
+  ],
+  "os": [
+    "darwin",
+    "linux",
+    "win32"
+  ],
+  "engines": {
+    "node": ">=18",
+    "npm": ">=8"
+  },
+  "engineStrict": true,
+  "main": "cspell.config.cjs",
+  "dependencies": {
+    "cspell": "6.31.1"
+  },
+  "devDependencies": {
+    "@falkor/falkor-prettier-config": "0.0.1"
+  }
+}
