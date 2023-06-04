@@ -35,12 +35,14 @@ module.exports = {
         "jscc",
         "ifset",
         "ifnset",
-        // JSDoc
+        // Doc
+        "typedoc",
         "jsdoc",
         // Falkor
         "falkor",
         "theonethread",
         "Bucsy",
+        "falkorrc",
         "pandoc"
     ],
     flagWords: [
