@@ -43,6 +43,9 @@
   },
   "engineStrict": true,
   "main": "cspell.config.cjs",
+  "files": [
+    "cspell.config.cjs"
+  ],
   "dependencies": {
     "cspell": "6.31.1"
   },
